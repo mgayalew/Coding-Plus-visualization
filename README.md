@@ -1,5 +1,5 @@
 # Coding-Plus-visualization
-This repository contains the assignments done by python, sql, python and tablue 
+This repository contains the assignments done using  python, sql, and tablue 
 
 ### Python files : 
 The files "creating and saving graph" both in ipynb  and pdf format show python code.  "Delta.png" and  "barplot.png" image outputs saved in the code.
