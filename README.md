@@ -12,4 +12,4 @@ The files "creating and saving graph" both in ipynb  and pdf format show python 
  https://public.tableau.com/views/Sheet1_Ganesh/Sheet1?:embed=y&:display_count=yes 
  
  ### Given data : 
-  "Addirional detail.doc" and "Ganesh.xlsx"
+  "Additional Detail.docx" and "Ganesh.xlsx"
